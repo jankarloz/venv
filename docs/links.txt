@@ -36,5 +36,5 @@ https://vsupalov.com/11-django-real-world-challenges/
 Must read:
 --------- 
 https://12factor.net/  
-
+https://docs.python.org/3/tutorial/ 
  
